@@ -1,3 +1,3 @@
 #Arduino Projects
-We are sharing the code files and documents providing information about arduino and using different sensors using arduino.
-We will be sharing basic codes for different applications and code files of the arduino projects that we will be doing.
+We are sharing the code files and documents providing information about Arduino and using different sensors using Arduino.
+We will be sharing basic codes for different applications and code files of the Arduino projects that we will be doing.
